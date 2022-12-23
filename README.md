@@ -8,7 +8,7 @@ I've been learning programming for a few years after switching careers. I starte
 
 * 🌍  I'm based in Hamburg, Germany
 * 🧠  I'm learning SwiftUI
-* ⚡  To keep fit I do calisthenics and after training I enjoy my coffee as a reward.
+* ⚡  My hobby is calisthenics and after training I enjoy my coffee as a reward.
 
 ### Skills
 
