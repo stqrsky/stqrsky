@@ -42,7 +42,7 @@ I've been learning programming for a few years after switching careers. I starte
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/stqrsky"><img src="https://github-readme-stats.vercel.app/api?username=stqrsky&&show_icons=true&theme=transparent" alt="stqrsky's GitHub stats" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stqrsky)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Support Me
 
