@@ -3,11 +3,10 @@ Hi 👋 My name is Starsky
 
 Software Developer
 ------------------
-
-I've been learning programming for a few years after switching careers. I started working as a backend web developer, but really found a passion in iOS development.
+I'm Starsky from Hamburg/Germany, I develop myself further in iOS Development. I enjoy to approach something, trying it out, looking at it from all sides (anew) and rethink it. Together with great people I work on some amazing projects. It's all about bringing people together and creating a sense of togetherness.
 
 * 🌍  I'm based in Hamburg, Germany
-* 🧠  I'm learning SwiftUI
+* 🧠  I'm learning Xcode, UIKit and SwiftUI, ARKit, CoreML and CoreData
 * ⚡  My hobby is calisthenics and after training I enjoy my coffee as a reward.
 
 ### Skills
@@ -42,7 +41,7 @@ I've been learning programming for a few years after switching careers. I starte
 
 <b>My GitHub Stats</b>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stqrsky&show_icons=true&hide=issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stqrsky&show_icons=true&hide=issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)]
 
 ### Support Me
 
