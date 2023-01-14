@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/stqrsky/starsky-banner-iOS-Dev.gif)
+![Design and Development](https://github.com/stqrsky/stqrsky/blob/main/github-profile-banner-to-gif.gif)
 
 Hi 👋 My name is Starsky
 ========================
