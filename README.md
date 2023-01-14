@@ -1,3 +1,5 @@
+![Design and Development](https://github.com/stqrsky/starsky-banner-iOS-Dev.gif)
+
 Hi 👋 My name is Starsky
 ========================
 
