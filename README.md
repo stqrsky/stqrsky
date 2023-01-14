@@ -41,7 +41,8 @@ I've been learning programming for a few years after switching careers. I starte
 ### Badges
 
 <b>My GitHub Stats</b>
-https://github-readme-stats.vercel.app/api?username=stqrsky&show_icons=true&hide=issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stqrsky&show_icons=true&hide=issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 
 ### Support Me
 
