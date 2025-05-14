@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/stqrsky/stqrsky/blob/main/github-profile-banner-to-gif.gif)
+[//]: ![Design and Development](https://github.com/stqrsky/stqrsky/blob/main/github-profile-banner-to-gif.gif)
 
 Hi 👋 My name is Starsky
 ========================
@@ -8,7 +8,7 @@ Software Developer
 I'm Starsky from Hamburg/Germany, I develop myself further in iOS Development and Spryker. I enjoy to approach something, trying it out, looking at it from all sides (anew) and rethink it. Together with great people I work on some amazing projects. It's all about bringing people together and creating a sense of togetherness.
 
 * 🌍  I'm based in Hamburg, Germany
-* 🧠  I'm learning Xcode, UIKit and SwiftUI, ARKit, CoreML and CoreData
+* 🧠  💻-> 🅰️👁️Dev & ⇀ 𝙇𝙞𝙛𝙚-𝙡𝙤𝙣𝙜 𝙡𝙚𝙖𝙧𝙣𝙚𝙧
 * ⚡  My hobby is calisthenics and after training I enjoy my coffee as a reward.
 
 ### Skills
