@@ -5,7 +5,7 @@ Hi 👋 My name is Starsky
 
 Software Developer
 ------------------
-I'm Starsky from Hamburg/Germany, I develop myself further in iOS Development and Spryker. I enjoy to approach something, trying it out, looking at it from all sides (anew) and rethink it. Together with great people I work on some amazing projects. It's all about bringing people together and creating a sense of togetherness.
+AI Engineer & Builder, based in Hamburg. I turn ideas into production-ready LLM agents and automation systems, from first prototype to running product. I move fast: try it, stress-test it from every side, rethink it. I do my best work alongside great people, building things together that create real value.
 
 * 🌍  I'm based in Hamburg, Germany
 * 🧠  💻-> 🅰️👁️Dev & ⇀ 𝙇𝙞𝙛𝙚-𝙡𝙤𝙣𝙜 𝙡𝙚𝙖𝙧𝙣𝙚𝙧
