@@ -43,7 +43,7 @@ AI Engineer & Builder, based in Hamburg. I turn ideas into production-ready LLM 
 
 <b>My GitHub Stats</b>
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=stqrsky&show_icons=true&hide=issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
+![stqrsky's GitHub stats](https://github-readme-stats-psi-ruby-56.vercel.app/api?username=stqrsky&show_icons=true&hide=issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=86400)
 
 ### Support Me
 
